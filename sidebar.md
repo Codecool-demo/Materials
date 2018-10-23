@@ -5,7 +5,6 @@
   * [Module overview: First steps with Python](demo/1-module-overview-python.md)
   * Self-instructed demo materials
 
-    * [Knowledge checklist](demo/2-knowledge-checklist.md)
 	* Prerequisites
 
       * [How to install Python](demo/3-how-to-install-python.md)

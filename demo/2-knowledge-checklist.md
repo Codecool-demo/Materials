@@ -14,10 +14,14 @@
     * display element by index,
     * display elements without brackets,
     * operations on lists (sorting, reversing, length),
+
+
   * conditional instruction:
     * if/else statement,
     * condition,
     * difference between if and elif
+
+
   * operators:
     * assigning,
     * comparing,
@@ -31,12 +35,16 @@
     * while,
     * for index in range(),
     * for element in collection,
+
+
   * file handling:
     * open and close
     * read and write
     * create a list with strings from file
     * strip
     * slip
+
+
   * functions (in theory):
     * define a new function,
     * parameter,
