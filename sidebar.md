@@ -18,11 +18,22 @@
 
     * Practice
 
-	  * [Before you start coding](demo/9-before-you-start-coding.md)
-	  * [Hello World!](demo/10-hello-world.md)
-	  * [Calculator](demo/20-simple-calculator.md)
-	  * [Fibonacci](demo/30-fibonacci.md)
-	  * [ToDo App](demo/40-to-do-app.md)
+	  * Introduction
+	
+	    * [Before you start coding](demo/9-before-you-start-coding.md)
+	  
+	  * Must have
+	  
+	    * [Hello World!](demo/10-hello-world.md)
+	    * [Calculator](demo/20-simple-calculator.md)
+	  
+	  * Should have
+	  
+	    * [ToDo App](demo/40-to-do-app.md)
+	  
+      * Nice to have	  
+	    
+		* [Fibonacci](demo/30-fibonacci.md)	    
 
 	* I want more!
 
