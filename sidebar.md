@@ -9,11 +9,21 @@
 
       * [How to install Python](demo/3-how-to-install-python.md)
 	  * [VS Code - An editor to write code](demo/4-vs-code-an-editor-to-write-code.md)
+	  * [Introduction to the Python language](demo/5-introduction-to-the-python-language.md)
 
     * Theory
 
-      * [Introduction to the Python language](demo/5-introduction-to-the-python-language.md)
-      * [Python Basics](demo/6-python-basics.md)
+	  * [Solo learn!](demo/100-solo-learn.md)
+      * [Variables](demo/101-variables.md)
+      * [Lists](demo/102-lists.md)
+	  * [Operators](demo/103-operators.md)
+	  * [Conditional Expression](demo/104-conditional-expressions.md)
+	  * [Loops](demo/105-loops.md)
+	  * [Frequently Used Built-in Functions](demo/106-fubif.md)
+	  * [Clean code](demo/107-clean-code.md)
+	  * [Common mistakes](demo/108-common-mistakes.md)
+	  * [How to’s](demo/109-how-tos.md)
+	  * [Script Examples](demo/110-script-examples.md)
       * [What's going on under the hood](demo/7-whats-going-on-under-the-hood.md)
 
     * Practice
